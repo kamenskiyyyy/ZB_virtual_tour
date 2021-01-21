@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<krpano>
+
+<!-- ************************ -->
+<!--         Messages         -->
+<!-- ************************ -->
+
+  <data name="ru_project_title"><![CDATA[ZBTour]]></data>
+
+
+  <data name="ru_panogroup25_title"><![CDATA[Корпус №1]]></data>
+
+  <data name="ru_pano19_title"><![CDATA[Улица корпус №1]]></data>
+  <data name="ru_spotpoint237_tooltip"><![CDATA[Улица здание "Клуб-столовая"]]></data>
+  <data name="ru_spotpoint764_tooltip"><![CDATA[Ресепшн]]></data>
+  <data name="ru_pano338_title"><![CDATA[Корпус №1. Холл 2 этаж.]]></data>
+  <data name="ru_spotpoint766_tooltip"><![CDATA[Ресепшн]]></data>
+  <data name="ru_spotpoint767_tooltip"><![CDATA[Номер 1-местный (п/к)]]></data>
+  <data name="ru_spotpoint768_tooltip"><![CDATA[Номер 2-местный]]></data>
+  <data name="ru_spotpoint769_tooltip"><![CDATA[Номер "люкс" гостинная]]></data>
+  <data name="ru_pano554_title"><![CDATA[Номер "люкс" ванная комната]]></data>
+  <data name="ru_spotpoint574_tooltip"><![CDATA[Номер "люкс" спальня]]></data>
+  <data name="ru_pano557_title"><![CDATA[Номер "люкс" спальня]]></data>
+  <data name="ru_spotpoint572_tooltip"><![CDATA[Номер "люкс" гостинная]]></data>
+  <data name="ru_spotpoint573_tooltip"><![CDATA[Номер "люкс" ванная комната]]></data>
+  <data name="ru_pano553_title"><![CDATA[Номер "люкс" гостинная]]></data>
+  <data name="ru_spotpoint571_tooltip"><![CDATA[Номер "люкс" спальня]]></data>
+  <data name="ru_spotpoint773_tooltip"><![CDATA[Корпус №1. Холл 2 этаж.]]></data>
+  <data name="ru_pano555_title"><![CDATA[Номер 1-местный (п/к)]]></data>
+  <data name="ru_spotpoint772_tooltip"><![CDATA[Корпус №1. Холл 2 этаж.]]></data>
+  <data name="ru_pano556_title"><![CDATA[Номер 2-местный]]></data>
+  <data name="ru_spotpoint771_tooltip"><![CDATA[Корпус №1. Холл 2 этаж.]]></data>
+  <data name="ru_pano736_title"><![CDATA[Ресепшн]]></data>
+  <data name="ru_spotpoint765_tooltip"><![CDATA[Улица корпус №1]]></data>
+  <data name="ru_spotpoint770_tooltip"><![CDATA[Корпус №1. Холл 2 этаж.]]></data>
+
+  <data name="ru_panogroup345_title"><![CDATA[Корпус №2]]></data>
+
+  <data name="ru_pano336_title"><![CDATA[Корпус №2. Ресепшн.]]></data>
+  <data name="ru_spotpoint1154_tooltip"><![CDATA[Игровая комната. Зал №1]]></data>
+  <data name="ru_spotpoint1155_tooltip"><![CDATA[Улица корпус №2]]></data>
+  <data name="ru_spotpoint1156_tooltip"><![CDATA[Зал бильярд у второго корпуса]]></data>
+  <data name="ru_pano577_title"><![CDATA[Улица корпус №2]]></data>
+  <data name="ru_spotpoint1150_tooltip"><![CDATA[Корпус №2. Ресепшн.]]></data>
+  <data name="ru_spotpoint1151_tooltip"><![CDATA[Улица около ВГЛ]]></data>
+  <data name="ru_spotpoint1152_tooltip"><![CDATA[Улица здание ФОК]]></data>
+  <data name="ru_spotpoint1153_tooltip"><![CDATA[Улица здание "Клуб-столовая"]]></data>
+
+  <data name="ru_panogroup44_title"><![CDATA[Клуб-столовая]]></data>
+
+  <data name="ru_pano20_title"><![CDATA[Улица здание "Клуб-столовая"]]></data>
+  <data name="ru_spotpoint191_tooltip"><![CDATA[Около здания "Клуб-столовая"]]></data>
+  <data name="ru_spotpoint246_tooltip"><![CDATA[Улица корпус №1]]></data>
+  <data name="ru_spotpoint784_tooltip"><![CDATA[Уличные тренажеры]]></data>
+  <data name="ru_pano38_title"><![CDATA[Около здания "Клуб-столовая"]]></data>
+  <data name="ru_spotpoint163_tooltip"><![CDATA[Холл клуб-столовая]]></data>
+  <data name="ru_spotpoint190_tooltip"><![CDATA[Улица здание "Клуб-столовая"]]></data>
+  <data name="ru_pano39_title"><![CDATA[Холл клуб-столовая]]></data>
+  <data name="ru_spotpoint164_tooltip"><![CDATA[Галерея ККЗ]]></data>
+  <data name="ru_spotpoint189_tooltip"><![CDATA[Около здания "Клуб-столовая"]]></data>
+  <data name="ru_spotpoint192_tooltip"><![CDATA[Розарий]]></data>
+  <data name="ru_pano40_title"><![CDATA[Галерея ККЗ]]></data>
+  <data name="ru_spotpoint165_tooltip"><![CDATA[Киноконцертный зал]]></data>
+  <data name="ru_spotpoint188_tooltip"><![CDATA[Холл клуб-столовая]]></data>
+  <data name="ru_spotpoint386_tooltip"><![CDATA[Лестница у библиотеки]]></data>
+  <data name="ru_pano11_title"><![CDATA[Киноконцертный зал]]></data>
+  <data name="ru_spotpoint187_tooltip"><![CDATA[Галерея ККЗ]]></data>
+  <data name="ru_pano255_title"><![CDATA[Конференц-зал]]></data>
+  <data name="ru_spotpoint362_tooltip"><![CDATA[Розарий]]></data>
+  <data name="ru_pano256_title"><![CDATA[Танцевальный зал]]></data>
+  <data name="ru_spotpoint363_tooltip"><![CDATA[Холл 2 этаж]]></data>
+  <data name="ru_spotpoint364_tooltip"><![CDATA[Розарий]]></data>
+  <data name="ru_pano257_title"><![CDATA[Библиотека]]></data>
+  <data name="ru_spotpoint365_tooltip"><![CDATA[Лестница у библиотеки]]></data>
+  <data name="ru_pano332_title"><![CDATA[Розарий]]></data>
+  <data name="ru_spotpoint366_tooltip"><![CDATA[Танцевальный зал]]></data>
+  <data name="ru_spotpoint367_tooltip"><![CDATA[Конференц-зал]]></data>
+  <data name="ru_spotpoint368_tooltip"><![CDATA[Зал бильярд у второго корпуса]]></data>
+  <data name="ru_pano333_title"><![CDATA[Лестница у библиотеки]]></data>
+  <data name="ru_spotpoint369_tooltip"><![CDATA[Холл 2 этаж]]></data>
+  <data name="ru_spotpoint370_tooltip"><![CDATA[Библиотека]]></data>
+  <data name="ru_spotpoint371_tooltip"><![CDATA[Столовая]]></data>
+  <data name="ru_spotpoint373_tooltip"><![CDATA[Галерея ККЗ]]></data>
+  <data name="ru_pano334_title"><![CDATA[Игровая комната. Зал №1]]></data>
+  <data name="ru_spotpoint374_tooltip"><![CDATA[Корпус №2. Ресепшн.]]></data>
+  <data name="ru_spotpoint375_tooltip"><![CDATA[Игровая комната. Зал №2]]></data>
+  <data name="ru_pano335_title"><![CDATA[Игровая комната. Зал №2]]></data>
+  <data name="ru_spotpoint376_tooltip"><![CDATA[Игровая комната. Зал №1]]></data>
+  <data name="ru_pano337_title"><![CDATA[Зал бильярд у первого корпуса]]></data>
+  <data name="ru_spotpoint377_tooltip"><![CDATA[Холл 2 этаж]]></data>
+  <data name="ru_spotpoint378_tooltip"><![CDATA[Холл 2 этаж]]></data>
+  <data name="ru_pano359_title"><![CDATA[Зал бильярд у второго корпуса]]></data>
+  <data name="ru_spotpoint379_tooltip"><![CDATA[Розарий]]></data>
+  <data name="ru_spotpoint1149_tooltip"><![CDATA[Корпус №2. Ресепшн.]]></data>
+  <data name="ru_pano339_title"><![CDATA[Холл 2 этаж]]></data>
+  <data name="ru_spotpoint380_tooltip"><![CDATA[Караоке-зал]]></data>
+  <data name="ru_spotpoint381_tooltip"><![CDATA[Лестница у библиотеки]]></data>
+  <data name="ru_spotpoint382_tooltip"><![CDATA[Танцевальный зал]]></data>
+  <data name="ru_spotpoint383_tooltip"><![CDATA[Зал бильярд у первого корпуса]]></data>
+  <data name="ru_pano340_title"><![CDATA[Караоке-зал]]></data>
+  <data name="ru_spotpoint384_tooltip"><![CDATA[Холл 2 этаж]]></data>
+
+  <data name="ru_panogroup13_title"><![CDATA[ФОК]]></data>
+
+  <data name="ru_pano10_title"><![CDATA[Боулинг]]></data>
+  <data name="ru_spotpoint755_tooltip"><![CDATA[Холл ФОК]]></data>
+  <data name="ru_pano21_title"><![CDATA[Улица здание ФОК]]></data>
+  <data name="ru_spotpoint387_tooltip"><![CDATA[Улица корпус №2]]></data>
+  <data name="ru_spotpoint388_tooltip"><![CDATA[Улица около ВГЛ]]></data>
+  <data name="ru_spotpoint757_tooltip"><![CDATA[Холл ФОК]]></data>
+  <data name="ru_pano9_title"><![CDATA[Тренажерный зал]]></data>
+  <data name="ru_spotpoint756_tooltip"><![CDATA[Холл ФОК]]></data>
+  <data name="ru_pano580_title"><![CDATA[Холл ФОК]]></data>
+  <data name="ru_spotpoint748_tooltip"><![CDATA[Тренажерный зал]]></data>
+  <data name="ru_spotpoint749_tooltip"><![CDATA[Боулинг]]></data>
+  <data name="ru_spotpoint750_tooltip"><![CDATA[Басcейн]]></data>
+  <data name="ru_pano751_title"><![CDATA[Басcейн]]></data>
+  <data name="ru_spotpoint754_tooltip"><![CDATA[Холл ФОК]]></data>
+
+  <data name="ru_panogroup393_title"><![CDATA[Питание]]></data>
+
+  <data name="ru_pano24_title"><![CDATA[Столовая]]></data>
+  <data name="ru_spotpoint497_tooltip"><![CDATA[Лестница у библиотеки]]></data>
+
+  <data name="ru_panogroup28_title"><![CDATA[ВГЛ]]></data>
+
+  <data name="ru_pano22_title"><![CDATA[Улица около ВГЛ]]></data>
+  <data name="ru_spotpoint252_tooltip"><![CDATA[Улица корпус №2]]></data>
+  <data name="ru_spotpoint389_tooltip"><![CDATA[Улица здание администрации]]></data>
+  <data name="ru_pano1461_title"><![CDATA[Холл ВГЛ]]></data>
+  <data name="ru_spotpoint1470_tooltip"><![CDATA[Улица около ВГЛ]]></data>
+
+  <data name="ru_panogroup29_title"><![CDATA[ДОК]]></data>
+
+  <data name="ru_pano23_title"><![CDATA[Улица ДОК]]></data>
+  <data name="ru_spotpoint391_tooltip"><![CDATA[Улица здание администрации]]></data>
+  <data name="ru_pano1462_title"><![CDATA[4-местный номер в ДОКе]]></data>
+  <data name="ru_pano1463_title"><![CDATA[2-местный номер в ДОКе]]></data>
+
+  <data name="ru_panogroup585_title"><![CDATA[Зоны барбекю]]></data>
+
+  <data name="ru_pano579_title"><![CDATA[Зона барбекю №2]]></data>
+  <data name="ru_spotpoint733_tooltip"><![CDATA[Улица корпус №1]]></data>
+  <data name="ru_pano576_title"><![CDATA[Зона барбекю №1]]></data>
+  <data name="ru_spotpoint593_tooltip"><![CDATA[Улица здание администрации]]></data>
+
+  <data name="ru_panogroup740_title"><![CDATA[Улица]]></data>
+
+  <data name="ru_pano737_title"><![CDATA[Прокат лодок и катамаранов]]></data>
+  <data name="ru_spotpoint779_tooltip"><![CDATA[Улица лестница на озеро]]></data>
+  <data name="ru_pano738_title"><![CDATA[Улица лестница на озеро]]></data>
+  <data name="ru_spotpoint780_tooltip"><![CDATA[Прокат лодок и катамаранов]]></data>
+  <data name="ru_spotpoint781_tooltip"><![CDATA[Уличные тренажеры]]></data>
+  <data name="ru_pano575_title"><![CDATA[Улица здание администрации]]></data>
+  <data name="ru_spotpoint594_tooltip"><![CDATA[Зона барбекю №1]]></data>
+  <data name="ru_spotpoint595_tooltip"><![CDATA[Улица ДОК]]></data>
+  <data name="ru_spotpoint596_tooltip"><![CDATA[Улица около ВГЛ]]></data>
+  <data name="ru_pano578_title"><![CDATA[Уличные тренажеры]]></data>
+  <data name="ru_spotpoint782_tooltip"><![CDATA[Улица здание "Клуб-столовая"]]></data>
+  <data name="ru_spotpoint783_tooltip"><![CDATA[Улица лестница на озеро]]></data>
+
+
+	<data name="ru_spotmap1419_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1420_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1421_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1422_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1423_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1424_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1425_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1426_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1427_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1428_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1429_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1430_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1431_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1432_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1433_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1434_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1435_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1436_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1437_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1438_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1439_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1440_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1441_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1442_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1443_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1444_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1445_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1446_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1447_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1448_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1449_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1450_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1451_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1452_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1453_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1467_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1468_tooltip"><![CDATA[]]></data>
+	<data name="ru_spotmap1469_tooltip"><![CDATA[]]></data>
+
+
+
+
+  <data name="ru_controlBar_izoomInTip"><![CDATA[Zoom in]]></data>
+  <data name="ru_controlBar_izoomOutTip"><![CDATA[Zoom out]]></data>
+  <data name="ru_controlBar_imoveLeftTip"><![CDATA[Move left]]></data>
+  <data name="ru_controlBar_imoveRightTip"><![CDATA[Move right]]></data>
+  <data name="ru_controlBar_imoveUpTip"><![CDATA[Move up]]></data>
+  <data name="ru_controlBar_imoveDownTip"><![CDATA[Move down]]></data>
+  <data name="ru_controlBar_iopenFsTip"><![CDATA[Enter fullscreen]]></data>
+  <data name="ru_controlBar_icloseFsTip"><![CDATA[Exit fullscreen]]></data>
+  <data name="ru_controlBar_isoundsOnTip"><![CDATA[Start sounds]]></data>
+  <data name="ru_controlBar_isoundsOffTip"><![CDATA[Stop sounds]]></data>
+  <data name="ru_controlBar_ictrlmodeDragTip"><![CDATA[Change control mode]]></data>
+  <data name="ru_controlBar_ictrlmodeMoveTip"><![CDATA[Change control mode]]></data>
+  <data name="ru_logowebsiteurl"><![CDATA[https://zelborcbr.ru]]></data>
+
+
+  <data name="ru_vr_setup_hmd0"><![CDATA[SELECT YOUR HMD]]></data>
+  <data name="ru_vr_setup_advanced"><![CDATA[ADVANCED SETTINGS]]></data>
+  <data name="ru_vr_setup_title"><![CDATA[WEB VR SETTINGS]]></data>
+  <data name="ru_vr_setup_dvn1"><![CDATA[Device:]]></data>
+  <data name="ru_vr_setup_siz1"><![CDATA[Screen size:]]></data>
+  <data name="ru_vr_setup_ipd1"><![CDATA[IPD:]]></data>
+  <data name="ru_vr_setup_hmd1"><![CDATA[HMD:]]></data>
+  <data name="ru_vr_setup_hmd3"><![CDATA[Customize]]></data>
+  <data name="ru_vr_setup_cal"><![CDATA[Calibrate gyroscope]]></data>
+  <data name="ru_vr_setup_sav"><![CDATA[SAVE]]></data>
+  <data name="ru_vr_setup_rst"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_simple"><![CDATA[SIMPLE]]></data>
+  <data name="ru_vr_setup_cls"><![CDATA[CLOSE]]></data>
+  <data name="ru_vr_setup_m31"><![CDATA[HMD SETTINGS]]></data>
+  <data name="ru_vr_setup_fov1"><![CDATA[FOV:]]></data>
+  <data name="ru_vr_setup_dst1"><![CDATA[Distortion:]]></data>
+  <data name="ru_vr_setup_d2tx"><![CDATA[Distortion 2:]]></data>
+  <data name="ru_vr_setup_vig1"><![CDATA[Vignette:]]></data>
+  <data name="ru_vr_setup_cac1"><![CDATA[Chromatic aberration:]]></data>
+  <data name="ru_vr_setup_olp1"><![CDATA[Overlap:]]></data>
+  <data name="ru_vr_setup_m35"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb1"><![CDATA[GYROSCOPE]]></data>
+  <data name="ru_vr_setup_cb2"><![CDATA[Place the device on a flat and[br]stable surface and tab CALIBRATE[br]to correct a gyroscope drifting.]]></data>
+  <data name="ru_vr_setup_cb3"><![CDATA[CALIBRATE]]></data>
+  <data name="ru_vr_setup_cb4"><![CDATA[RESET]]></data>
+  <data name="ru_vr_setup_cb5"><![CDATA[RETURN]]></data>
+  <data name="ru_vr_setup_cb6"><![CDATA[Calibrating...]]></data>
+  <data name="ru_vr_setup_cb7"><![CDATA[Successful calibration]]></data>
+  <data name="ru_vr_setup_cb8"><![CDATA[Calibration failed]]></data>
+  <data name="ru_vr_setup_unavailable"><![CDATA[VR mode[br]is unavailable on your device]]></data>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</krpano>
